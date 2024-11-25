@@ -1,5 +1,6 @@
 
 # Look-Alike Medical Vial Detection Using YOLOv4-Tiny
+![new_result-ezgif com-resize](https://github.com/user-attachments/assets/ff96f2b0-f20e-42e8-8c2e-09c03320ca93)
 
 This repository demonstrates the detection of look-alike medical vials, a critical application in the healthcare industry, using the YOLOv4-Tiny deep learning model. The solution is optimized for real-time vial detection, addressing the challenges of distinguishing similar-looking vials to prevent medication errors.
 
